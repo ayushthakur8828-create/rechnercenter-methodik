@@ -11,7 +11,7 @@ Legen Sie ein Issue an und nennen Sie:
 3. das Ergebnis des Rechners und das Ergebnis, das Sie erwartet hätten,
 4. wenn möglich eine Quelle: Gesetz, amtlicher Rechner oder Veröffentlichung einer Behörde.
 
-Alternativ per E-Mail an kontakt@rechnercenter.de.
+Alternativ per E-Mail an rechnercenter@gmail.com.
 
 ## Was angenommen wird
 
